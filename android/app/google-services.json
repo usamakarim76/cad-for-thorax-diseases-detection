@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826439709797",
+    "project_id": "cad-for-thorax-diseases-ec663",
+    "storage_bucket": "cad-for-thorax-diseases-ec663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826439709797:android:8d4ff47a378a65dc09c28c",
+        "android_client_info": {
+          "package_name": "com.thoraxdiseases.cad_for_thorax_diseases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826439709797-bick5nmekji7onqc4fg7anbsgrbf80rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1_dOj4fzSRpBx9XbcjE9GTLrTcUg30w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826439709797-bick5nmekji7onqc4fg7anbsgrbf80rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
