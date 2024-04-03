@@ -44,7 +44,7 @@ class _AboutScreenState extends State<AboutScreen> {
                   ),
                   const Padding(padding: EdgeInsets.symmetric(horizontal: 20.0),
                   child : Text(
-                    "The effect of disease on health is rapidly increasing because of alterations to the environment,"
+                    "The effect of disease on health is rapidly increasing, because of alterations to the environment,"
                     " climate change, lifestyle, and other factors. This has increased the risk of ill health. Chest"
                     "radiography chest X-ray or CXR is an economical and easy-to-use medical imaging and diagnostic"
                     "technique. The technique is the most commonly used diagnostic tool in medical practice and has"
