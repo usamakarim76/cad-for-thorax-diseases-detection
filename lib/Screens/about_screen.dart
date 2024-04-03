@@ -50,7 +50,7 @@ class _AboutScreenState extends State<AboutScreen> {
                     "technique. The technique is the most commonly used diagnostic tool in medical practice and has"
                     "an important role in the diagnosis of the thorax disease."
                     "The great advantages of chest X-rays include their low cost and easy operation. Even in"
-                    "underdeveloped areas, modern digital radiography machines are very affordable. Therefore, chest"
+                    "underdeveloped areas, modern digital radiography machines are very affordable. Therefore, chest "
                     "radiographs are widely used in the detection and diagnosis of the thorax diseases, such as"
                     "Atelectasis, Cardiomegaly, Consolidation, Edema Effusion, Emphysema, Fibrosis, Hernia,"
                     "Infiltration, Mass, Nodule, Pneumonia, Pneumothorax, Pleural thickening. So, we develop an"
